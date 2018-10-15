@@ -1,0 +1,54 @@
+body,html{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.sub-div
+{   
+    margin-top: 40px;
+	border: 1.3px solid grey; 
+    padding: 17px
+}
+
+div
+{
+    width: 90px;
+    margin: 30px;
+    font-size: 15px;
+}
+#ch
+{
+	border-color: orange;
+	background-color: #fef8f2;
+}
+b
+{
+	color: red;
+	font-size: 15px;
+}
+span
+{
+	font-size: 15px;
+	color: grey;
+}
+.main
+{
+	font-size:15px ;
+	color: blue;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
